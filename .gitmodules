@@ -5,6 +5,6 @@
 	branch = HEAD
 [submodule "msgr"]
 	path = msgr
-	url = https://github.com/chadgoymer/msgr
+	url = https://github.com/cran/msgr
 	shallow = true
 	registered = true
